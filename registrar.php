@@ -32,7 +32,8 @@ $consulta="INSERT INTO registro(fecha,taller,kilometraje,costo,tipo,observacione
 <body>
     <h3>REGISTRO EXITROSO
 </h3>
-<button href="instalacion.html">REGRESAR AL INICIO
-</button>
+<a href='aplicacion.html'>
+    <button>REGRESAR AL INICIO
+</button></a>
 </body>
 </html>
